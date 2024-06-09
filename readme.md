@@ -1,5 +1,5 @@
 # Description
-This is the list of best free unity assets I have found when I was going to develop my games and apps in unity. I have tried many and listed the best you can use in your project.
+This is the list of best free unity assets. You can find the best free unity assets for your game development.
 
 # Best Free Assets
 ## Player/Game Data
